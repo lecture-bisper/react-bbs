@@ -1,3 +1,13 @@
+# React 과제 입니다.
+React를 사용하여 리뷰 사이트를 제작하는 것이 과제입니다.
+자세한 내용은 아래의 링크를 확인하세요.
+
+[과제링크] (https://1drv.ms/b/s!AkaHS9HwadBKgznzcw8OG90fhPyy?e=Ec30TR)
+
+과제는 천천히 제출해도 됩니다.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
